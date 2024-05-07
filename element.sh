@@ -1,2 +1,13 @@
 #!bin/bash
 
+#if there is no an argument
+
+#else
+
+  #if the argument is an atomic number
+
+  #elif the argument is a symbol
+
+  #elif the argument is a name
+
+  #else is other thing or doesnt exist
