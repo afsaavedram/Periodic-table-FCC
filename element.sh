@@ -1,7 +1,10 @@
 #!/bin/bash
-echo $1
+#echo $1
 #if there is no an argument
-
+if [[ -z $1 ]]
+then
+  echo "Please provide an element as an argument."
+fi
 #else
 
   #if the argument is an atomic number
