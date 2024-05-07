@@ -1,5 +1,5 @@
-#!bin/bash
-
+#!/bin/bash
+echo $1
 #if there is no an argument
 
 #else
